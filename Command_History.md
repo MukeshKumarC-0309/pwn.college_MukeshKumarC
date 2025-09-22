@@ -7,12 +7,12 @@ The challenge asks you to open the terminal in the pwn.college DOJO and use the 
 Here we learn that linux is able to save all the codes we have typed so far in its 'history' which can be accessed by clicking the right arrow.Hence we do that because the flag is hidden in the history.While doing so we obtain the flag.  
 
 '''  
-hacker@paths~the-root:~$ /pwn
-BOOM!!!
-Here is your flag:
-pwn.college{EvHvRrsXCgAbRUp5uLOT2_VJ8qb.QX4cTO0wCO1gjNzEzW}
-hacker@paths~the-root:~$   
-'''  
+hacker@paths~the-root:~$ /pwn   
+BOOM!!!    
+Here is your flag:   
+pwn.college{EvHvRrsXCgAbRUp5uLOT2_VJ8qb.QX4cTO0wCO1gjNzEzW}    
+hacker@paths~the-root:~$       
+'''     
 
 ## What I learnt
 I learnt that when we type lots of code,we can always access the previous using the 'history' feature which makes accessing commands much easier  
