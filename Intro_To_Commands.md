@@ -7,12 +7,12 @@ The challenge asks us to open the terminal in the pwn.college DOJO and use the "
 First we execute the "whoami" command in the terminal.We see that the whoami command states who you are in that respective frame,in this case 'hacker' who subsequently has lesser permissions.Thereby we use the 'hello' command with no arguements to retrieve the flag  
 
 '''
-hacker@hello~intro-to-commands:~$ whoami
-hacker
-hacker@hello~intro-to-commands:~$ hello
-Success! Here is your flag:
-pwn.college{sA6PzR-Q1e0f63-hcnZB3nYMZx2.QX3YjM1wCO1gjNzEzW}
-hacker@hello~intro-to-commands:~$ 
+hacker@hello~intro-to-commands:~$ whoami  
+hacker  
+hacker@hello~intro-to-commands:~$ hello  
+Success! Here is your flag:  
+pwn.college{sA6PzR-Q1e0f63-hcnZB3nYMZx2.QX3YjM1wCO1gjNzEzW}  
+hacker@hello~intro-to-commands:~$   
 '''
 
 ## What i learnt  
