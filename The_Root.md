@@ -7,11 +7,11 @@ The challenge asks you to open the terminal in the pwn.college DOJO and invoke t
 First we invoke the file path '\pwn' to access said directory.Doing so automatically gives us our flag.  
 
 '''  
-hacker@paths~the-root:~$ /pwn
-BOOM!!!
-Here is your flag:
-pwn.college{EvHvRrsXCgAbRUp5uLOT2_VJ8qb.QX4cTO0wCO1gjNzEzW}
-hacker@paths~the-root:~$   
+hacker@paths~the-root:~$ /pwn      
+BOOM!!!     
+Here is your flag:    
+pwn.college{EvHvRrsXCgAbRUp5uLOT2_VJ8qb.QX4cTO0wCO1gjNzEzW}      
+hacker@paths~the-root:~$     
 '''
 
 ## What I learnt
