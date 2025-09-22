@@ -5,8 +5,13 @@ The challenge asks you to open the terminal in the pwn.college DOJO and use the 
 **Flag:** 'pwn.college{MZXTqmh02UAC2WChZxY6mOlkCXC.0lNzEzNxwCO1gjNzEzW}'
 
 Here we learn that linux is able to save all the codes we have typed so far in its 'history' which can be accessed by clicking the right arrow.Hence we do that because the flag is hidden in the history.While doing so we obtain the flag.  
+
 '''  
-hacker@hello~command-history:~$ the flag is pwn.college{MZXTqmh02UAC2WChZxY6mOlkCXC.0lNzEzNxwCO1gjNzEzW}  
+hacker@paths~the-root:~$ /pwn
+BOOM!!!
+Here is your flag:
+pwn.college{EvHvRrsXCgAbRUp5uLOT2_VJ8qb.QX4cTO0wCO1gjNzEzW}
+hacker@paths~the-root:~$   
 '''  
 
 ## What I learnt
