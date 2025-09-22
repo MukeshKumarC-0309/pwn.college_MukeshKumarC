@@ -15,7 +15,7 @@ hacker@paths~the-root:~$
 '''
 
 ## What I learnt
-I learnt that we can access different files across different locations by mentioning the file path in which the file is stored using the '\' command.
+I learnt that we can access different files across different locations by mentioning the file path in which the file is stored using the ' \ ' command.
 
 ## References
 None.  
