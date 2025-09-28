@@ -53,5 +53,7 @@ I learnt the use of 'bg' command which is used to run programs in the background
 ## References
 None.     
 
-![Uploading image.png…]()
+<img width="747" height="558" alt="image" src="https://github.com/user-attachments/assets/7e06d78c-33da-4dc7-910b-c3b31220400c" />
+
+
 
