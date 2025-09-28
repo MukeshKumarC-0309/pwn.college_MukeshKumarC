@@ -1,4 +1,4 @@
-# Intro To Arguments
+# Foregrounding Processes
 The challenge asks you to open the terminal in the pwn.college DOJO and invoke the 'fg' command to get the desired output.       
 
 ## My Solve
