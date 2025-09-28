@@ -2,7 +2,7 @@
 The challenge asks you to open the terminal in the pwn.college DOJO and invoke the 'tr -d' command to get the desired output.   
 
 ## My Solve
-**Flag:** 'pwn.college{YCW_oSx_Ee1sFhn1plnZOBd4LV1.0VNxEzNxwCO1gjNzEzW'      
+**Flag:** 'pwn.college{YCW_oSx_Ee1sFhn1plnZOBd4LV1.0VNxEzNxwCO1gjNzEzW}'      
 
 Here,we are asked to remove all the newlines in the file such that we get the desired flag output.Like the previous challenge we can use the 'tr -d' command to delete all the newlines.Newlines are denoted by "/n".Hence if we pass 'tr -d "/n"' it would delete all the newlines.Hence our final command ie.'/challenge/run | tr -d "\n"' runs successfully and gives us the final flag output.    
 '''     
