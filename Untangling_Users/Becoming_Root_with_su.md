@@ -9,11 +9,8 @@ Here,we use the 'su' command in the terminal.The 'su' command is used to elevate
 Connected!                                                                             
 hacker@users~becoming-root-with-su:~$ su      
 Password:        
-root@users~becoming-root-with-su:/home/hacker# cat myflag          
-      
-[FLAG] Here is your flag:        
-[FLAG] pwn.college{cejQnUfzmCzwFnfdbEM-Fj6FLp0.QX3YTN0wCO1gjNzEzW}      
-       
+root@users~becoming-root-with-su:/home/hacker# cat /flag
+pwn.college{QjC7ws-58MHMCmd3UFfutF5z5re.QX1UDN1wCO1gjNzEzW}      
 root@users~becoming-root-with-su:/home/hacker#         
 '''     
 
@@ -24,4 +21,5 @@ I learnt the use of 'sd' command which can be used to elevate user permissions t
 None.          
 
 
-<img width="747" height="133" alt="image" src="https://github.com/user-attachments/assets/93228806-4ea7-4aff-accc-40a8338d0106" />
+<img width="747" height="94" alt="image" src="https://github.com/user-attachments/assets/32a363f7-2b20-4e99-9322-94ec5c88b341" />
+
