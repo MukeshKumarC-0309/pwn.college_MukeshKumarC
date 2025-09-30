@@ -22,10 +22,5 @@ I learnt about the manipulation of the PATH variable which can be used to render
 None.        
 
 
-Connected!                                                                        
-hacker@path~the-path-variable:~$ export PATH="" && /challenge/run
-Trying to remove /flag...
-/challenge/run: line 4: rm: No such file or directory
-The flag is still there! I might as well give it to you!
-pwn.college{sx5K7KODCxm1dHI3vuhkwf5WHoy.QX2cDM1wCO1gjNzEzW}
-hacker@path~the-path-variable:~$ 
+
+<img width="750" height="126" alt="image" src="https://github.com/user-attachments/assets/8d8c8a86-8c53-4fce-85b1-623886703b9b" />
